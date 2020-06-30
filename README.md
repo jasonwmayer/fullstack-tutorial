@@ -23,3 +23,8 @@ and
 ```bash
 cd final/client && npm i && npm start
 ```
+
+
+
+
+cd start/server && npm install
